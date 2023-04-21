@@ -1,0 +1,49 @@
+									
+									
+									
+									
+									
+									
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	co	co	Cubes-1	Cubes-1	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	co	co	Cubes-2	Cubes-2	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	co	co	Cubes-3	Cubes-3	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	co	co	Cubes-1	Cubes-3	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	co	co	Cubes-3	Cubes-1	same-ROI_different-hemisphere
+									
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	go	go	Gaze-1	Gaze-1	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	go	go	Gaze-2	Gaze-2	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	go	go	Gaze-3	Gaze-3	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	go	go	Gaze-1	Gaze-3	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	go	go	Gaze-3	Gaze-1	same-ROI_different-hemisphere
+									
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-left	ses-sep	ses-sep	co	co	Cubes-1	Cubes-3	same-ROI_same-hemisphere
+									
+sub-0000	Marquardt2017GFP-right	Marquardt2017GFP-right	ses-sep	ses-sep	co	co	Cubes-1	Cubes-3	same-ROI_same-hemisphere
+									
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-left	ses-sep	ses-sep	go	go	Gaze-1	Gaze-3	same-ROI_same-hemisphere
+									
+sub-0000	Marquardt2017GFP-right	Marquardt2017GFP-right	ses-sep	ses-sep	go	go	Gaze-1	Gaze-3	same-ROI_same-hemisphere
+									
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	co	go	Cubes-1	Gaze-1	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	co	go	Cubes-2	Gaze-2	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	co	go	Cubes-3	Gaze-3	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	co	go	Cubes-1	Gaze-3	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	co	go	Cubes-3	Gaze-1	same-ROI_different-hemisphere
+									
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	go	co	Gaze-1	Cubes-1	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	go	co	Gaze-2	Cubes-2	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	go	co	Gaze-3	Cubes-3	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	go	co	Gaze-3	Cubes-1	same-ROI_different-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-right	ses-sep	ses-sep	go	co	Gaze-1	Cubes-3	same-ROI_different-hemisphere
+									
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-left	ses-sep	ses-sep	co	go	Cubes-1	Gaze-1	same-ROI_same-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-left	ses-sep	ses-sep	co	go	Cubes-2	Gaze-2	same-ROI_same-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-left	ses-sep	ses-sep	co	go	Cubes-3	Gaze-3	same-ROI_same-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-left	ses-sep	ses-sep	co	go	Cubes-1	Gaze-3	same-ROI_same-hemisphere
+sub-0000	Marquardt2017GFP-left	Marquardt2017GFP-left	ses-sep	ses-sep	co	go	Cubes-3	Gaze-1	same-ROI_same-hemisphere
+									
+sub-0000	Marquardt2017GFP-right	Marquardt2017GFP-right	ses-sep	ses-sep	co	go	Cubes-1	Gaze-1	same-ROI_same-hemisphere
+sub-0000	Marquardt2017GFP-right	Marquardt2017GFP-right	ses-sep	ses-sep	co	go	Cubes-2	Gaze-2	same-ROI_same-hemisphere
+sub-0000	Marquardt2017GFP-right	Marquardt2017GFP-right	ses-sep	ses-sep	co	go	Cubes-3	Gaze-3	same-ROI_same-hemisphere
+sub-0000	Marquardt2017GFP-right	Marquardt2017GFP-right	ses-sep	ses-sep	co	go	Cubes-1	Gaze-3	same-ROI_same-hemisphere
+sub-0000	Marquardt2017GFP-right	Marquardt2017GFP-right	ses-sep	ses-sep	co	go	Cubes-3	Gaze-1	same-ROI_same-hemisphere

@@ -1,0 +1,4 @@
+[submodule "analysis/fMRIus"]
+	path = analysis/fMRIus
+	url = git@github.com:maalaria/fMRIus.git
+	branch = gaze-motion
